@@ -18,8 +18,9 @@ public class Student {
 
 		Student s1 = new Student(109, "kalai");
 		Student s2 = new Student(110, "Nindhuja");
-
+		Student s3 = new Student(1100, "duplicate");
 		s1.display();
 		s2.display();
+		s3.display();
 	}
 }
